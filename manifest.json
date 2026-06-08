@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Mini Web Scanner",
+    "version": "0.0.1",
+    "description": "Test inputs on the current page.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
